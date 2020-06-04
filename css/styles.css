@@ -1,0 +1,15 @@
+.output{
+  display: none;
+}
+#isosceles{
+  display: none;
+}
+#scalene{
+  display: none;
+}
+#equilateral{
+  display: none;
+}
+#not-triangle{
+  display: none;
+}
